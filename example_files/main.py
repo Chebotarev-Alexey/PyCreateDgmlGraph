@@ -1,5 +1,5 @@
 from types import ModuleType
-from pycreatedgml import AbstractModulesGraph
+from pycreatedgmlgraph import AbstractModulesGraph
 from example_files import module
 from pathlib import Path
 
