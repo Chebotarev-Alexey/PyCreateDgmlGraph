@@ -152,6 +152,3 @@ class AbstractModulesGraph(AbstractGraph):
 
         self._last_id += 1
         return Node(name, childs, self._last_id, self._color_chooser.get_color(name))
-
-    def render(self):
-        return self._root_node.render()
