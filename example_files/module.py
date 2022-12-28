@@ -1,0 +1,2 @@
+import random
+import example_files.module2
